@@ -1,4 +1,2 @@
 theme: jekyll-theme-minimal
-body {
- background: #D1ACE3
-}
+background: #D1ACE3
