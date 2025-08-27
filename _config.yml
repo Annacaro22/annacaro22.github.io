@@ -1,3 +1,15 @@
 theme: jekyll-theme-minimal
 title: Annabel Baniak's website
 description: A page introducting Annabel Baniak.
+
+author:
+  # Biographic information
+  avatar           : "me.jpg"
+  name             : "Annabel Baniak"
+  pronouns         : "she/her"  
+  bio              : "Computer Science MS student at Cornell University."
+  location         : "Ithaca, NY, USA"
+  email            : "acb365@cornell.edu" 
+
+  # Social media
+  linkedin         : "annabel-baniak-b45a77244"
