@@ -23,7 +23,7 @@
                     <div class="fixed-posi">
                         <p class="name">Annabel Baniak</p>
                         <p class="email-text">acb365@cornell.edu</p>
-                        <img src="images/annabel.jpg" class="profilepic pt-3 pb-2" alt="Annabel Baniak profile picture">
+                        <img src="me.jpg" class="profilepic pt-3 pb-2" alt="Annabel Baniak profile picture">
                         <div class="pt-5 menur">
                             <a class="menulink" target="_blank" href="https://www.linkedin.com/in/annabel-baniak-b45a77244/">linkedin</a>
                         </div>
