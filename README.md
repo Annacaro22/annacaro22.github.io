@@ -7,7 +7,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta name="description" content="Personal website of Annabel Baniak, MS student in CS at Cornell University.">
         <meta name="author" content="Annabel Baniak">
-        <meta name="theme-color" content="#D1ACE3">
+        <meta name="theme-color" content="#c5a3d9">
         <meta name="google-site-verification" content="LmvP_EsuzN3fSTQdxbALb_0Y2Og3PX2KN2DnKTn2yPY"/>
         <link rel="apple-touch-icon" sizes="180x180" href="images/nicons/apple-touch-icon.png">
         <link rel="icon" type="image/png" sizes="32x32" href="images/nicons/favicon-32x32.png">
